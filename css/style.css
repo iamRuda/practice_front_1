@@ -1,3 +1,14 @@
+body {
+    background: no-repeat linear-gradient(0deg, #6F9CD5, #34ABE4, #00D8CE, #91F25C, #F7EE0B),
+    #6F9CD5;
+}
+
+@media screen and (min-height: 640px) {
+    body {
+        overflow: hidden;
+    }
+}
+
 a {
     text-decoration: none;
     color: black;
@@ -6,8 +17,9 @@ a {
 .place-content {
     display: flex;
     width: auto;
-    height: 97.8vh; 
-    border: 3px rgb(19, 19, 24) solid;
+    height: 100vh; 
+    
+    /* border: 3px rgb(19, 19, 24) solid; */
 }
 
 .content {
@@ -32,7 +44,7 @@ a {
 }
 @media screen and (min-width: 1600px) {
     .content {
-        grid-template-columns: 2fr 1fr;
+        grid-template-columns: 5fr 4fr;
     }
 }
 
@@ -40,32 +52,37 @@ a {
 .place-img-content {
     height: auto;
     display: flex;
-    display: flex;
     align-items: center;
     justify-content: center;
     align-items: center;
-    border: 3px green solid;
+    /* border: 3px green solid; */
 }
 
 .place-text-content {
     height: auto;
     display: flex;
     align-items: center;
-    border: 3px red solid;
+    /* border: 3px red solid; */
 }
 
 .img-content {
-    width: 50%;
-    height: 50%;
-    border: 3px blue solid;
+    width: 66%;
+    height: 66%;
+    /* border: 3px blue solid; */
 }
 
 .text-content {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.4em;
-    margin: 1em;
+    margin: 2em;
     padding: 1em;
-    border: 3px rebeccapurple solid;
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+    /* border: 3px rebeccapurple solid;  */
+    background-color: #ffc;
+    /* background: padding-box radial-gradient(circle farthest-side at 30px 20px, #ffc, rgba(255, 255, 255, 0), transparent),
+                radial-gradient(ellipse at bottom, rgb(209, 209, 167), transparent),
+                radial-gradient(ellipse at right, rgb(250, 250, 177), transparent); */
 }
 
 .li-url {

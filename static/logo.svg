@@ -1,37 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 800 693.33331"
-   height="693.33331"
-   width="800"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,693.33333)"
-     id="g10"><g
-       transform="translate(201.5001,87.0003)"
-       id="g12"><path
-         id="path14"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 -51,-87 h 0.5 449 L 348.373,0 Z" /></g><path
-       id="path16"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 0,0 h 100 0.5 l 175,303 -50.895,86.821 z" /><g
-       transform="translate(225.5,130)"
-       id="g18"><path
-         id="path20"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 0,0 H 150 L 75,129 Z" /></g><g
-       transform="translate(249.8481,432.6993)"
-       id="g22"><path
-         id="path24"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 174.186,-301.699 100.844,-0.668 -0.25,0.433 -224.5,388.846 z" /></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1090 1094"
+	 style="enable-background:new 0 0 1090 1094;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#202124;}
+	.st1{fill:#FF0000;}
+</style>
+<circle class="st0" cx="545" cy="545" r="545"/>
+<g id="g10" transform="matrix(1.3333333,0,0,-1.3333333,0,693.33333)">
+	<g id="g12" transform="translate(201.5001,87.0003)">
+		<path id="path14" class="st1" d="M108.2-101.3l-51-87h0.5h449l-50.1,87H108.2z"/>
+	</g>
+	<path id="path16" class="st1" d="M108.2-101.3h100h0.5l175,303l-50.9,86.8L108.2-101.3z"/>
+	<g id="g18" transform="translate(225.5,130)">
+		<path id="path20" class="st1" d="M108.2-101.2h150l-75,129L108.2-101.2z"/>
+	</g>
+	<g id="g22" transform="translate(249.8481,432.6993)">
+		<path id="path24" class="st1" d="M108.2-101.2L282.4-403l100.8-0.7l-0.3,0.4L158.5-14.3L108.2-101.2z"/>
+	</g>
+</g>
+</svg>
