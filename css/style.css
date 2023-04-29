@@ -1,0 +1,11 @@
+h1.title {
+    text-align: center;
+    color: red;
+}
+
+
+.content {
+    margin: 1em;
+    padding: 1em;
+    border: 4px blue dotted;
+}
